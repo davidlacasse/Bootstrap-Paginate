@@ -1,1 +1,1 @@
-Bootstrap-Paginate
+<h2>Bootstrap-Paginate<h2>
