@@ -5,7 +5,7 @@
 <pre>
 <code>
   $(document).ready(function(){
-      $('.table').pagination();
+      $('.table').paginate();
   });
 </code>
 </pre>
