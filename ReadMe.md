@@ -12,7 +12,7 @@ This plugin has several options to fit the way your application works. To make i
 
     $('table').paginate(options);
 
-In this case, options is an array. You can set the following parameters that way:
+In this case, options is an array. You can set the following parameters:
 
 <table>
   <thead>
