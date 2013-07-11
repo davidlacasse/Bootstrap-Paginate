@@ -60,5 +60,19 @@ In this case, options is an array. You can set the following parameters:
         Hide/Show the navigation buttons that allow you to switch to the previous or next page.
       </td>
     </tr>
+    <tr>
+      <td>
+        paginationSelector
+      </td>
+      <td>
+        string
+      </td>
+      <td>
+        .pagination
+      </td>
+      <td>
+        Create the pagination from the element with the paginationSelector.
+      </td>
+    </tr>
   </tbody>
 </table>
